@@ -1,0 +1,16 @@
+# sum_of_three.py
+
+def sum_of_three(x, y, z):
+    """
+    This function takes three integers as input and returns their sum.
+    
+    Parameters:
+    x (int): First integer
+    y (int): Second integer
+    z (int): Third integer
+    
+    Returns:
+    int: The sum of the three integers
+    """
+    result = x + y + z
+    return result
